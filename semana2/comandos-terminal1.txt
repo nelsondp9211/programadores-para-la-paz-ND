@@ -1,0 +1,7 @@
+Comandos usados para esta actividad:
+
+pwd
+ls
+mkdir semana2
+cd semana2
+New-Item (Con este hice los archivos .txt)
