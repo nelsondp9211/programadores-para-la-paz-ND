@@ -1,0 +1,6 @@
+Una ruta en una API es la dirección que permite acceder a información o realizar acciones dentro de una aplicación. 
+Por ejemplo, una ruta puede servir para consultar datos, registrar usuarios, publicar información o actualizar contenidos. 
+En una aplicación comunitaria, las rutas ayudan a organizar la comunicación entre la plataforma y las personas usuarias. 
+Por ejemplo, podrían utilizarse para mostrar noticias de la comunidad, registrar propuestas ciudadanas, publicar eventos, 
+guardar reportes o consultar información importante de manera rápida y ordenada. 
+Esto facilita una difusión responsable, clara y accesible para todos.
