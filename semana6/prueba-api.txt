@@ -1,0 +1,4 @@
+{"estado":"Datos recibidos","nombre":"Nelson","mensaje":"Hola comunidad"}
+
+El servidor está respondiendo con una confirmación de los datos que recibió, lo que suele utilizarse para verificar
+ que la comunicación entre el cliente y la API funciona correctamente.

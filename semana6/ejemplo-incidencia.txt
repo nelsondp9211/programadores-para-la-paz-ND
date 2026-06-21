@@ -1,0 +1,4 @@
+{
+  "tipo": "Servivio de agua dulce",
+  "descripcion": "Se reciben reportes de la falta de suministro de agua dulce en varios hogares de la comunidad de Puerto Estrella."
+}
