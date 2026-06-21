@@ -1,0 +1,6 @@
+{"mensaje":"Reporte registrado","reporte":{"id":1,"tipo":"infraestructura","descripcion":"Daño en plantas potabilizadoras de agua dulce"}}
+
+El servidor devuelve todos los reportes que han sido registrados previamente mediante la ruta POST /reportes.
+La información se muestra en formato JSON dentro de un arreglo. Cada reporte contiene un identificador único (id),
+el tipo de incidencia y una descripción del problema reportado.
+Si existe un solo reporte registrado, se mostrará un único objeto dentro del arreglo.
