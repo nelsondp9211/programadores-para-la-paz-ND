@@ -1,0 +1,5 @@
+Mantener copias de seguridad periódicas.
+Verificar la identidad de los usuarios.
+Actualizar regularmente los sistemas y aplicaciones.
+Monitorear actividades sospechosas en la plataforma.
+Capacitar a los usuarios en seguridad digital.

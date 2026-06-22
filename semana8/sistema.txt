@@ -1,0 +1,13 @@
+¿Qué información muestra cada comando?
+
+*systeminfo: Muestra información detallada del sistema operativo y del equipo, como la versión de Windows, 
+nombre del equipo, procesador, memoria RAM, configuración de red y fecha de instalación del sistema.
+
+*whoami: Muestra el nombre del usuario que está actualmente conectado y ejecutando comandos en el sistema.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Conocer la información del sistema es importante porque permite verificar las características del servidor,
+identificar posibles problemas de configuración, comprobar los recursos disponibles y 
+asegurar que el usuario que realiza las tareas tenga los permisos adecuados. 
+Esto facilita el mantenimiento, la seguridad y la administración eficiente del servidor.

@@ -1,0 +1,3 @@
+1. Verificar que los correos y enlaces sean legitimos antes de hacer clic.
+2. Activar la autenticación en dos pasos en las cuentas importantes.
+3. Realizar copias de seguridad periódicamente.
