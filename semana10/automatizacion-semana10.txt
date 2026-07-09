@@ -1,0 +1,19 @@
+AUTOMATIZACIÓN - SEMANA 10
+
+Evento:
+Se registra un nuevo reporte de una incidencia en la plataforma comunitaria.
+
+Acción:
+n8n detecta el nuevo reporte y envía automáticamente una notificación a un grupo o canal de Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Hay una nueva incidencia registrada en la plataforma. Ingrese al sistema para revisarla y asignar seguimiento."
+
+Información que no debe enviarse por seguridad:
+- Nombres completos de los ciudadanos.
+- Números de documento de identidad.
+- Direcciones exactas.
+- Números de teléfono.
+- Correos electrónicos.
+- Contraseñas o claves de acceso.
+- Fotografías o documentos con información sensible.

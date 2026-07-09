@@ -1,0 +1,18 @@
+ITERACIÓN - SEMANA 10
+
+1. ¿Qué 2 tareas del backlog harías primero?
+
+- Implementar el registro de incidencias por parte de los ciudadanos.
+- Implementar el sistema de alertas para que el coordinador reciba los nuevos reportes.
+
+2. ¿Por qué son las más importantes?
+
+Porque el registro de incidencias es la función principal de la plataforma y permite que los ciudadanos reporten los problemas de la comunidad. Las alertas son importantes porque permiten que el equipo de veeduría conozca rápidamente los nuevos reportes y les dé seguimiento oportuno.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente y cumple con lo solicitado.
+- Fue probada y no presenta errores.
+- Quedó registrada en Git mediante un commit.

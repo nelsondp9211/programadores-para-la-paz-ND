@@ -1,0 +1,11 @@
+REFLEXIÓN - SEMANA 10
+
+Las metodologías ágiles ayudan a organizar el trabajo de una comunidad porque permiten
+establecer prioridades y avanzar de forma ordenada. También facilitan la planificación 
+de tareas y la mejora continua del proceso. La automatización reduce el tiempo en actividades 
+repetitivas y evita errores humanos. Herramientas como n8n permiten enviar notificaciones 
+de manera automática cuando ocurre un nuevo evento. Además, Telegram facilita la comunicación 
+rápida entre los miembros del equipo de veeduría. Esto permite responder con mayor rapidez 
+a los reportes ciudadanos. El trabajo colaborativo mejora porque todos conocen el estado de las tareas. 
+En conjunto, estas herramientas hacen que la participación ciudadana sea más organizada, 
+eficiente y transparente.
