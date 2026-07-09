@@ -1,0 +1,29 @@
+MODELO DE DATOS - PLATAFORMA COMUNITARIA
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- ubicacion
+- fecha
+- estado
+
+Propósito:
+Guardar los reportes de incidencias realizados por los ciudadanos para que el 
+equipo de veeduría pueda revisarlos y hacer seguimiento.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- responsable
+- observacion
+- fecha
+
+Propósito:
+Registrar las acciones realizadas sobre cada reporte, permitiendo llevar un control del seguimiento 
+y conocer el estado de cada incidencia.

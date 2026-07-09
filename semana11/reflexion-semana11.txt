@@ -1,0 +1,11 @@
+REFLEXIÓN - SEMANA 11
+
+Una plataforma tecnológica para la participación ciudadana necesita una base de datos 
+para almacenar de forma organizada la información de los usuarios y los reportes. 
+La autenticación permite verificar la identidad de las personas antes de acceder a 
+funciones importantes. Esto ayuda a evitar accesos no autorizados y protege la integridad 
+de la plataforma. Además, la protección de la información es fundamental para cuidar los 
+datos personales y generar confianza en la comunidad. También permite cumplir con buenas 
+prácticas de seguridad y privacidad. Con estas herramientas, la información se mantiene 
+organizada, disponible y protegida. De esta manera, la plataforma puede ofrecer un servicio 
+más seguro, confiable y eficiente para todos los ciudadanos.

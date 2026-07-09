@@ -1,0 +1,9 @@
+INTERFAZ DE LA PLATAFORMA
+
+La interfaz tendría un formulario para crear una nueva causa comunitaria, donde el usuario 
+pueda ingresar el título, la descripción y la fecha de la causa. 
+También mostraría una lista con todas las causas disponibles para que cualquier persona pueda 
+conocerlas. Cada causa tendría un botón de **"Apoyar"** que permita registrar el apoyo 
+del usuario y un contador que indique cuántas personas la han apoyado. Además, la interfaz 
+sería clara, fácil de usar y organizada, evitando mostrar información privada como documentos, 
+direcciones, teléfonos o contraseñas de los usuarios.
