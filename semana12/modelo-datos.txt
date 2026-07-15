@@ -1,0 +1,15 @@
+# Modelo básico de datos
+
+## Entidad: Causa
+
+id: Identificador único de la causa.
+titulo: Nombre o título de la causa ciudadana.
+descripcion: Explicación detallada del problema o la petición.
+fecha: Fecha en la que se creó la causa.
+
+## Entidad: Apoyo
+
+id: Identificador único del apoyo.
+causa_id: Identificador de la causa a la que pertenece el apoyo.
+nombre: Nombre del ciudadano que apoya la causa.
+fecha: Fecha en la que se registró el apoyo.

@@ -1,0 +1,10 @@
+# Automatización con n8n y Telegram
+
+Evento: Se registra una nueva causa en la plataforma "Petición en 3 Clics".
+
+Mensaje: "Se ha creado una nueva causa ciudadana. Ingresa a la plataforma para conocer los detalles y, 
+si estás de acuerdo, brinda tu apoyo."
+
+Información que no debe enviarse por seguridad: No se deben compartir números de cédula, teléfonos, direcciones, 
+correos electrónicos, comentarios sensibles, contraseñas ni ningún otro dato personal de los ciudadanos. 
+Solo debe enviarse información general sobre la causa para proteger la privacidad de los usuarios.

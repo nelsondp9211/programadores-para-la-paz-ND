@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología es una herramienta muy importante para fortalecer la 
+participación ciudadana y la organización comunitaria. Comprendí que una plataforma digital puede 
+facilitar la creación de causas y el registro de apoyos de manera organizada y transparente. 
+También entendí la importancia de desarrollar aplicaciones seguras que protejan la información personal 
+de los usuarios. Aprendí a utilizar metodologías de trabajo como el backlog y las iteraciones para 
+planificar mejor un proyecto. Además, conocí el uso de herramientas como n8n y Telegram para automatizar 
+procesos y mejorar la comunicación. Otro aprendizaje importante fue el manejo de Git y GitHub para 
+controlar versiones y trabajar de forma organizada. Este curso me permitió comprender que la tecnología 
+debe estar al servicio de la comunidad y ayudar a resolver problemas reales. Finalmente, considero que 
+los conocimientos adquiridos serán muy útiles para crear soluciones con impacto social y promover una 
+participación ciudadana más activa.

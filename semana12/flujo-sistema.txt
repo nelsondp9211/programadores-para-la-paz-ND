@@ -1,0 +1,8 @@
+# Flujo del sistema – Petición en 3 Clics
+
+1. El ciudadano ingresa a la plataforma y crea una nueva causa diligenciando un formulario con el título, la descripción y la categoría.
+2. El sistema valida la información y registra la causa en la base de datos para que quede disponible públicamente.
+3. Otros ciudadanos pueden visualizar las causas registradas y apoyar aquellas con las que están de acuerdo.
+4. Cada apoyo queda almacenado de forma segura y el sistema actualiza automáticamente el contador de apoyos de la causa.
+5. Cuando la causa alcanza el número de apoyos requerido, el sistema genera un documento PDF con la información de la petición y 
+el listado de apoyos para presentarlo ante la entidad correspondiente.
